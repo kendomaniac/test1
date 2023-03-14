@@ -1,5 +1,4 @@
 # test1
-jhkljfhlkjd
-K/K/LKVl
-c,mn,.m.,
-other modification
+this is an example of using markdown
+*italics*
+**bold**
